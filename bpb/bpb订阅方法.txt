@@ -1,0 +1,22 @@
+bpb订阅方法
+
+------------默认 UUID-----------------------
+89b3cbba-e6ac-485a-9481-976a0415eab9
+
+------------Vless 节点-------------------
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@修改域名:443?security=tls&sni=修改域名&alpn=http%2F1.1&type=ws&host=修改域名&path=%2F%3Fed%3D2560#修改域名
+
+-------------Vless 订阅-------------------
+https://修改域名/sub/89b3cbba-e6ac-485a-9481-976a0415eab9
+
+https://sub.cmliussss.workers.dev/sub?host=修改域名&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/?ed=2560&sni=修改域名&type=ws
+---------------------------------------------------
+
+-------------Trojan 节点---------------------------
+trojan://bpb-trojan@修改域名:443?security=tls&sni=修改域名&type=ws&host=修改域名&path=%2Ftr%3Fed%3D2560
+
+--------------Trojan 订阅--------------------------
+https://修改域名/auto
+
+https://sub.cmliussss.workers.dev/sub?host=修改域名&pw=bpb-trojan&path=/tr?ed=2560
+----------------------------------------------------
