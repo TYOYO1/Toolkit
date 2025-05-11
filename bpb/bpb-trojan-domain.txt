@@ -1,5 +1,4 @@
 0916cc.pages.dev
-1010.991810.xyz
 1024.unryaton.eu.org
 1024bpb.024435.xyz
 20241027.walr.eu.org
@@ -15,14 +14,12 @@ bpb-wk.reundo.ir
 bpb.737703.xyz
 bpb.baihui.eu.org
 bpb.cloudflyer.eu.org
-bpb.czbb.eu.org
 bpb.gjz518.top
 bpb.mokasi1.cn
 bpb.wenboo.cf
 bpb.wttqbz.sbs
 bpb02.052088.xyz
 bpb27.muding17.tk
-bpb3.ikys.eu.org
 bpbcn.ktlhk.xyz
 cdn.nyxclothing.ir
 cf.wlcskf.sbs
@@ -30,7 +27,6 @@ cnx.anjomansut.ir
 d8e3c358-8083-4617-aeae-6e4fef4d29c3.mimlink.top
 dc.brigand.asia
 de987.xyz
-derder0041.icu
 ee657914.pages.dev
 eu.etian.eu.org
 fuxiaoxin.sbs
@@ -46,7 +42,6 @@ liasx.top
 lixiansheng.liyingpeng.sbs
 long-27p.pages.dev
 mashdt.pages.dev
-mooncake.sherrytsang.cfd
 new-cf.201410524.xyz
 nnbbz.ggff.net
 node.cnwa.eu.org
@@ -74,11 +69,9 @@ singbox.yuanyuan.asia
 spring-snow-5018.wetag.top
 ss1.inshuey.com
 sudo.961217.xyz
-test241010.betterid.cfd
 vless.herogoing.top
 vless.vmsys.ggff.net
 vpn.183618.xyz
-worker.ofogo.top
 www.opensignal.com.nno.mgmg.site
 www.qbone.sbs
 xeqw.986235984.xyz
